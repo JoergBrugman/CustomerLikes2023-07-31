@@ -13,5 +13,6 @@
     "CRS.ObjectNamePrefix": "BSCL ",
     "editor.snippetSuggestions": "bottom",
     "editor.mouseWheelZoom": true,
-    "workbench.colorTheme": "Visual Studio Light"
+    "workbench.colorTheme": "Visual Studio Light",
+    "CRS.WebServerInstancePort": "8080"
 }
